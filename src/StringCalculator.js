@@ -1,4 +1,5 @@
-export default class StringCalculator {
+
+module.exports = class StringCalculator {
   static add() {
   }
 }

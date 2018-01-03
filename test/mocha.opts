@@ -1,3 +1,0 @@
---require @babel/register ./test/**/*.spec.js
---require chai-autoload-plugins
---ui bdd

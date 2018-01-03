@@ -1,4 +1,5 @@
-export default class IntegerParser {
+
+module.exports = class IntegerParser {
   static parse(number) {
     return parseInt(number);
   }

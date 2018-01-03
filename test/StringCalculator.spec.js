@@ -1,5 +1,5 @@
-import {expect} from 'chai';
-import StringCalculator from '../src/StringCalculator';
+const expect = require('chai').expect;
+const StringCalculator = require('../src/StringCalculator');
 
 describe('StringCalculator', () => {
   it('should do something...', () => {
